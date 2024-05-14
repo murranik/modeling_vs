@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Univer\\modeling\\modeling-test\\Debugging\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3D1FBA-3E4E-4686-9C95-A907C7AC323D}|Debugging.csproj|e:\\univer\\modeling\\modeling-test\\debugging\\test.modelingtest||{C2C4DA82-9D8A-4B5A-A5ED-072E77AF6FEF}|",
+      "RelativeMoniker": "D:0:0:{FB3D1FBA-3E4E-4686-9C95-A907C7AC323D}|Debugging.csproj|solutionrelative:test.modelingtest||{C2C4DA82-9D8A-4B5A-A5ED-072E77AF6FEF}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test.modelingtest",
+              "DocumentMoniker": "E:\\Univer\\modeling\\modeling-test\\Debugging\\Test.modelingtest",
+              "RelativeDocumentMoniker": "Test.modelingtest",
+              "ToolTip": "E:\\Univer\\modeling\\modeling-test\\Debugging\\Test.modelingtest*",
+              "RelativeToolTip": "Test.modelingtest*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-07T11:29:39.72Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

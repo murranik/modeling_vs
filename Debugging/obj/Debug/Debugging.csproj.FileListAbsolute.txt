@@ -1,0 +1,6 @@
+E:\Univer\modeling\modeling-test\Debugging\bin\Debug\Debugging.dll
+E:\Univer\modeling\modeling-test\Debugging\bin\Debug\Debugging.pdb
+E:\Univer\modeling\modeling-test\Debugging\obj\Debug\Debugging.csproj.AssemblyReference.cache
+E:\Univer\modeling\modeling-test\Debugging\obj\Debug\Debugging.csproj.CoreCompileInputs.cache
+E:\Univer\modeling\modeling-test\Debugging\obj\Debug\Debugging.dll
+E:\Univer\modeling\modeling-test\Debugging\obj\Debug\Debugging.pdb

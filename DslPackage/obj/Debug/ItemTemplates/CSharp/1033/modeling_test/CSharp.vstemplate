@@ -1,0 +1,16 @@
+﻿<!--DSL Tools Language Template-->
+<VSTemplate Version="3.0.0" Type="Item" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<TemplateData>
+		<TemplateID>{cd7e498c-9836-45d8-b739-35350139adb0}</TemplateID>
+		<Name Package="{f5d1e2b1-3a3d-4a7e-862f-40bb45000db9}" ID="103"/>
+		<Description Package="{f5d1e2b1-3a3d-4a7e-862f-40bb45000db9}" ID="102"/>
+		<Icon Package="{f5d1e2b1-3a3d-4a7e-862f-40bb45000db9}" ID="201" />
+		<ProjectType>CSharp</ProjectType>
+		<SortOrder>360</SortOrder>
+		<DefaultName>modeling_test.modelingtest</DefaultName>
+	</TemplateData>
+	<TemplateContent>
+		<ProjectItem TargetFileName="$fileinputname$.modelingtest">modelingtest.modelingtest</ProjectItem>
+	</TemplateContent>
+</VSTemplate>
+

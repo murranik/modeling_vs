@@ -1,0 +1,69 @@
+﻿
+<!-- To see the display form of the generated HTML file, click the 'Design' tab at bottom left of the window. -->
+<html>
+ <head>
+  <title>Report for MyModel</title>
+ </head>
+ <body>
+  <table>
+   <thead>
+    <tr>
+	 <td>Name</td>
+     <td>Description</td>
+     <td>Value</td>
+    </tr>
+   </thead>
+   <tbody>
+ 
+   <tr>
+     <td>ExampleElement1</td>
+     <td>Element #1</td>
+     <td>1</td>
+    </tr>
+
+ 
+   <tr>
+     <td>ExampleElement2</td>
+     <td>Element #2</td>
+     <td>2</td>
+    </tr>
+
+ 
+   <tr>
+     <td>ExampleElement3</td>
+     <td>Element #3</td>
+     <td>3</td>
+    </tr>
+
+ 
+   <tr>
+     <td>ExampleElement4</td>
+     <td>Element #4</td>
+     <td>4</td>
+    </tr>
+
+ 
+   <tr>
+     <td>ExampleElement5</td>
+     <td>Element #5</td>
+     <td>5</td>
+    </tr>
+
+ 
+   <tr>
+     <td>ExampleElement6</td>
+     <td>Element #6</td>
+     <td>6</td>
+    </tr>
+
+ 
+   <tr>
+     <td>ExampleElement7</td>
+     <td>Element #7</td>
+     <td>7</td>
+    </tr>
+
+   </tbody>
+  </table>
+ </body>
+</html>

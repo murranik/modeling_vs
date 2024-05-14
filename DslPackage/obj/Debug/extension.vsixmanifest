@@ -1,0 +1,25 @@
+<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011">
+  <Metadata>
+    <Identity Id="f5d1e2b1-3a3d-4a7e-862f-40bb45000db9" Version="1.0.0.0" Language="en-US" Publisher="YaHZ" />
+    <DisplayName>modeling_test</DisplayName>
+    <Description>Description for YaHZ.modeling_test.modeling_test</Description>
+  </Metadata>
+  <Installation InstalledByMsi="false">
+    <InstallationTarget Version="[17.0,18.0)" Id="Microsoft.VisualStudio.Community">
+      <ProductArchitecture>amd64</ProductArchitecture>
+    </InstallationTarget>
+  </Installation>
+  <Dependencies>
+    <Dependency Id="Microsoft.VisualStudio.MPF.17.0" DisplayName="Visual Studio MPF 17.0" Version="[17.0,18.0)" />
+  </Dependencies>
+  <Prerequisites>
+    <Prerequisite Id="Microsoft.VisualStudio.Component.CoreEditor" Version="[17.0,18.0)" DisplayName="Visual Studio core editor" />
+  </Prerequisites>
+  <Assets>
+    <Asset Type="Microsoft.VisualStudio.VsPackage" Path="YaHZ.modeling_test.DslPackage.pkgdef" />
+    <Asset Type="Microsoft.VisualStudio.MefComponent" Path="YaHZ.modeling_test.DslPackage.dll" />
+    <Asset Type="Microsoft.VisualStudio.MefComponent" Path="YaHZ.modeling_test.Dsl.dll" />
+    <Asset Type="Microsoft.VisualStudio.ItemTemplate" Path="ItemTemplates" />
+    <Asset Type="Microsoft.VisualStudio.Assembly" Path="YaHZ.modeling_test.UI.dll" />
+  </Assets>
+</PackageManifest>
